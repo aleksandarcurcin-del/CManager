@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="CManager2.Application/CManager2.Application.csproj" />
+  <Project Path="CManager2.Domain/CManager2.Domain.csproj" />
+  <Project Path="CManager2.Infrastructure/CManager2.Infrastructure.csproj" />
   <Project Path="CManager2.Presentation.ConsoleApp/CManager2.Presentation.ConsoleApp.csproj" />
+  <Project Path="CManager2.Tests/CManager2.Tests.csproj" />
 </Solution>

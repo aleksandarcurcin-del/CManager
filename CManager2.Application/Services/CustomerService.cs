@@ -52,7 +52,7 @@ public class CustomerService(ICustomerRepo customerRepo) : ICustomerService
         }
         catch (Exception)
         {
-            // här kommer throw hamna från customerrepo - getallcustomers
+            
             hasError = true;
             return [];
 
